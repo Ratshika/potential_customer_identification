@@ -7,7 +7,8 @@
 - The model built was able to identify 81% of the Potential Customers accurately.
 
 ## EDA:
-
+![customer](/images/eda.png)
+![heatmap](/images/heatmap.png)
 ## Insights:
 **`The features positively contributing to Conversion of Leads are:`**
 - Total Time Spent on Website
